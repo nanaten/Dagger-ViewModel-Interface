@@ -1,1 +1,3 @@
 # Dagger-ViewModel-Interface
+Dagger2使用時、コンストラクタに引数を持つViewModelをinterface化したサンプルです。
+MVVMアーキテクチャを想定。
